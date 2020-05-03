@@ -1,10 +1,10 @@
-### Natours Web App ###
+## Natours Web App ##
 
-*Description*
+#### *Description* ####
 Natours is a web application built for a company that delivers tours to clients
 who travel the globe seekig new sights and having a good time.
 
-*Technology used*
+#### *Technology used* ####
 1. HTML 5
 2. CSS 3
 3. SCSS
