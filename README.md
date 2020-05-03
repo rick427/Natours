@@ -9,5 +9,5 @@ who travel the globe seekig new sights and having a good time.
 2. CSS 3
 3. SCSS
 
-**PREVIEW**
+### *PREVIEW* ###
 <img src="snapshot/snapshot.PNG" alt="snapshot">
